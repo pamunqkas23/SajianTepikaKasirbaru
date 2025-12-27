@@ -1,0 +1,38 @@
+body {
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.struk {
+  width: 58mm;
+  padding: 4mm;
+}
+
+.logo {
+  width: 100%;
+  margin-bottom: -130px;
+}
+.center {
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 1px dashed #000;
+  margin: 6px 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.thanks {
+  text-align: center;
+  margin-top: 80px;   /* ⬅️ ini yang bikin ke bawah */
+}
+.brand {
+  text-align: center;
+  color: #2752A0;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
